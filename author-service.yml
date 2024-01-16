@@ -1,0 +1,2 @@
+server.port  = 7001
+strategy.default: rest-template
